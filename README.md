@@ -15,6 +15,10 @@ To manually install it simply go to settings, then extensions, or input this lin
 Toggle Developer Mode to On.                                
 Click Load Unpacked and browse to the location of this folder.
 
+## Built With
+
+* JSON 
+
 
 ### Contributing
  Tayo Carl
