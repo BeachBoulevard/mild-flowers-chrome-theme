@@ -1,0 +1,50 @@
+{
+   "name": "Mild flowers",
+   "version": "1.0",
+   "description": "Colour scheme motivated by a flower by Peter Oswald from Unsplash",
+   "manifest_version": 2,
+
+   "theme": {
+      
+      "images": {
+         
+         "theme_ntp_background": "images/ntp_background.png"
+            
+      },
+
+      "icons": {  "16": "images/icon16.png",
+         "48": "images/icon48.png",
+         "128":"images/icon128.png" 
+      },
+
+	"colors": {
+         "bookmark_text": [ 0, 0, 0 ],
+         "frame": [ 199, 181, 166 ],
+         "nt_header": [ 255, 255, 255 ],
+         "ntp_background": [ 28, 45, 61 ],
+         "ntp_link": [ 0, 0, 0 ],
+         "ntp_section": [ 35, 35, 35 ],
+         "ntp_section_link": [ 0, 0, 0 ],
+         "ntp_section_text": [ 0, 0, 0 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 195, 150, 135 ],
+         "tab_text": [ 0, 0, 0 ],
+         "toolbar": [ 211, 180, 171 ]
+      },
+
+      "properties": {
+         "ntp_background_alignment": "top center",
+         "ntp_background_repeat": "repeat",
+         "ntp_logo_alternate": 0
+      },
+
+      "tints": {
+         "background_tab": [ -1, 0.5, 0.75 ],
+         "buttons": [ 0, 0, 0 ],
+         "frame_inactive": [ -1, -1, 0.75 ],
+         "frame_incognito": [ -1, 0.2, 0.35 ],
+         "frame_incognito_inactive": [ 1, 1, 1 ]
+      }
+   }
+   
+}
